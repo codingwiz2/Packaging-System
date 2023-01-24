@@ -1,2 +1,2 @@
-# vigilant-octo-guide
-Placeholder [Project Name] and [Description]
+# [Placeholder Name]
+[Project Name] and [Description]
