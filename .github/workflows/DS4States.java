@@ -56,7 +56,7 @@ public class DS4States {
    states.put("washington", 46);
    states.put("wisconsin", 47);
    states.put("west virginia", 48);
-   states.put("wyoming", 59);
+   states.put("wyoming", 49);
 
    //add acronyms ex. AZ, VA, etc.?
    //what data type are we storing for double arrayList?
